@@ -1,0 +1,18 @@
+{
+  "name": "rest-crud-api",
+  "version": "1.0.0",
+  "description": "simple and easy rest crud api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
